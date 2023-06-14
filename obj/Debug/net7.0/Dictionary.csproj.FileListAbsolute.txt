@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\Informatique\CSharp\wildschool\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\Informatique\CSharp\wildschool\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\Informatique\CSharp\wildschool\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
